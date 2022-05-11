@@ -332,16 +332,10 @@
     <line class="cls-32" x1="360.81" y1="335.03" x2="396.9" y2="356.38"/>
     <line class="cls-32" x1="347.5" y1="343.43" x2="379.03" y2="392.45"/>
     <ellipse class="cls-13" cx="165.26" cy="298.14" rx="32.16" ry="32.13"/>
-    <ellipse class="cls-13" cx="165.26" cy="301.87" rx="28.42" ry="28.4"/>
     <ellipse class="cls-13" cx="165.26" cy="305.89" rx="24.4" ry="24.39"/>
-    <ellipse class="cls-13" cx="165.26" cy="309.91" rx="20.38" ry="20.37"/>
     <ellipse class="cls-13" cx="165.26" cy="314.21" rx="16.08" ry="16.07"/>
-    <ellipse class="cls-13" cx="165.26" cy="318.23" rx="12.06" ry="12.05"/>
     <text class="cls-6" transform="translate(160.13 297.11)"><tspan x="0" y="0">100</tspan></text>
-    <text class="cls-6" transform="translate(161.84 305.16)"><tspan x="0" y="0">50</tspan></text>
-    <text class="cls-6" transform="translate(160.13 288.11)"><tspan x="0" y="0">150</tspan></text>
     <text class="cls-6" transform="translate(160.13 280.18)"><tspan x="0" y="0">200</tspan></text>
-    <text class="cls-6" transform="translate(160.13 272.15)"><tspan x="0" y="0">250</tspan></text>
     <text class="cls-6" transform="translate(160.13 264.76)"><tspan x="0" y="0">300</tspan></text>
     <text class="cls-3" transform="translate(108.8 244.41)"><tspan x="0" y="0">Total Number of Fires</tspan></text>
     <circle class="cls-4" cx="165.26" cy="324.9" r="5.38"/>
